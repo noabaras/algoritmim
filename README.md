@@ -1,0 +1,2 @@
+# algoritmim
+Prim's algorithm
